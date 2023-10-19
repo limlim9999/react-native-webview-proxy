@@ -1,5 +1,5 @@
 {
-  "name": "@kok/react-native-webview-proxy",
+  "name": "@limlim9999/react-native-webview-proxy",
   "description": "React Native WebView component for iOS, Android, macOS, and Windows",
   "main": "index.js",
   "main-internal": "src/index.ts",
