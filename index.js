@@ -1,4 +1,4 @@
-import WebView from './lib/WebView';
+import WebViewProxy from './lib/WebView';
 
-export { WebView };
-export default WebView;
+export { WebViewProxy };
+export default WebViewProxy;
