@@ -9,7 +9,7 @@
     ""
   ],
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/limlim9999/react-native-webview-proxy#readme",
   "scripts": {
     "android": "react-native run-android",
